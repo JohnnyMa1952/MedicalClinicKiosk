@@ -1,0 +1,1 @@
+ColourPallette.o: ../ColourPallette.c

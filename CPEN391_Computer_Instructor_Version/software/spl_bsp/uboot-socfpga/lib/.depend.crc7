@@ -1,0 +1,8 @@
+crc7.o: crc7.c \
+ /cygdrive/c/Users/Amir/Desktop/CPEN391/CPEN391_13/CPEN391_Computer_Instructor_Version/software/spl_bsp/uboot-socfpga/include/linux/types.h \
+ /cygdrive/c/Users/Amir/Desktop/CPEN391/CPEN391_13/CPEN391_Computer_Instructor_Version/software/spl_bsp/uboot-socfpga/include/linux/config.h \
+ /cygdrive/c/Users/Amir/Desktop/CPEN391/CPEN391_13/CPEN391_Computer_Instructor_Version/software/spl_bsp/uboot-socfpga/include/linux/posix_types.h \
+ /cygdrive/c/Users/Amir/Desktop/CPEN391/CPEN391_13/CPEN391_Computer_Instructor_Version/software/spl_bsp/uboot-socfpga/include/linux/stddef.h \
+ /cygdrive/c/Users/Amir/Desktop/CPEN391/CPEN391_13/CPEN391_Computer_Instructor_Version/software/spl_bsp/uboot-socfpga/include/asm/posix_types.h \
+ /cygdrive/c/Users/Amir/Desktop/CPEN391/CPEN391_13/CPEN391_Computer_Instructor_Version/software/spl_bsp/uboot-socfpga/include/asm/types.h \
+ /cygdrive/c/Users/Amir/Desktop/CPEN391/CPEN391_13/CPEN391_Computer_Instructor_Version/software/spl_bsp/uboot-socfpga/include/linux/crc7.h

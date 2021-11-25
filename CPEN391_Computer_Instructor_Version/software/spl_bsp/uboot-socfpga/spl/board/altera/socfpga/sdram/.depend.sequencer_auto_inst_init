@@ -1,0 +1,2 @@
+/cygdrive/c/Users/Amir/Desktop/CPEN391/CPEN391_13/CPEN391_Computer_Instructor_Version/software/spl_bsp/uboot-socfpga/spl/board/altera/socfpga/sdram/sequencer_auto_inst_init.o: \
+ sequencer_auto_inst_init.c sequencer_defines.h alt_types.h

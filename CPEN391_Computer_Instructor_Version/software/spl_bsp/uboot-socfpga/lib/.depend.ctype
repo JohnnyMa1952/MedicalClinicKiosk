@@ -1,0 +1,2 @@
+ctype.o: ctype.c \
+ /cygdrive/c/Users/Amir/Desktop/CPEN391/CPEN391_13/CPEN391_Computer_Instructor_Version/software/spl_bsp/uboot-socfpga/include/linux/ctype.h

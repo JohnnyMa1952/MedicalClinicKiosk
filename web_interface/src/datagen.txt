@@ -1,0 +1,19 @@
+[
+  '{{repeat(12)}}',
+  {
+    name: '{{company()}}' + ' Medical Clinic',
+    clinicID: '{{index()}}',
+    address: '{{integer(100, 999)}} {{street()}}, Vancouver, BC',
+    waitTime: '{{integer(0, 5)}}',
+    numPatients: '{{integer(0, 20)}}',
+    patients: [
+      '{{repeat(3, 20)}}',
+      {
+        name: '{{firstName()}} {{surname()}}',
+        careCard: '{{integer(0, 999999999)}}'
+      }
+    ]
+  }
+]
+
+USE json-generator.com

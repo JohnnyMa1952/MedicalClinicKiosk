@@ -1,0 +1,31 @@
+	.syntax unified
+	.arch armv7-a
+	.fpu softvfp
+	.eabi_attribute 20, 1
+	.eabi_attribute 21, 1
+	.eabi_attribute 23, 3
+	.eabi_attribute 24, 1
+	.eabi_attribute 25, 1
+	.eabi_attribute 26, 2
+	.eabi_attribute 30, 4
+	.eabi_attribute 34, 1
+	.eabi_attribute 18, 4
+	.thumb
+	.file	"NUL"
+	.text
+.Ltext0:
+	.cfi_sections	.debug_frame
+.Letext0:
+	.section	.debug_line,"",%progbits
+.Ldebug_line0:
+	.section	.debug_str,"MS",%progbits,1
+.LASF0:
+	.ascii	"C:\\Users\\Amir\\Desktop\\CPEN391\\CPEN391_13\\CPEN"
+	.ascii	"391_Computer_Instructor_Version\\software\\spl_bsp\\"
+	.ascii	"uboot-socfpga\\drivers\\usb\\musb-new\000"
+.LASF1:
+	.ascii	"GNU C 4.9.1 -mfloat-abi=soft -mthumb -mthumb-interw"
+	.ascii	"ork -mabi=aapcs-linux -march=armv7-a -g -Os -fno-co"
+	.ascii	"mmon -ffixed-r8 -fno-builtin -ffreestanding -fno-st"
+	.ascii	"ack-protector -fstack-usage\000"
+	.ident	"GCC: (Sourcery CodeBench Lite 2014.11-13) 4.9.1"

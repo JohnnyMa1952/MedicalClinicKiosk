@@ -1,0 +1,30 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.site-header {
+  height: 12vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to bottom, #245199 , #2c61b8);
+}
+
+.site-header p {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #ffffff;
+  margin: 0;
+}
+
+.site-header img {
+  width: 48px;
+  margin: 0 16px;
+}
+
+.body-content {
+  height: 100%;
+  background-color: #abbcd8;
+}
